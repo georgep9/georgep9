@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @georgep9, a final year software engineering undergraduate at Queensland of University of Technology.
-- 👀 I’m interested in embedded systems and web development.
-- 🌱 I’m currently learning machine learning, deep reinforcement learning, and programming paradigms.
-- 💞️ I’m looking to collaborate on ML cloud applications.
+- 👀 I’m interested in embedded systems and cloud computing.
 - 📫 How to reach me: https://www.linkedin.com/in/george-patterson-a32763168/ 
 
 <!---
